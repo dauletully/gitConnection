@@ -14,6 +14,6 @@ class ViewController: UIViewController {
         self.viewDidLoad()
     }
 
-
+    func setUp(){}
 }
 
