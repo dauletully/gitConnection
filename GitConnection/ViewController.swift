@@ -21,5 +21,8 @@ class ViewController: UIViewController {
     func firstMethod(){
         print("First")
     }
+    func secondMethod(){
+        print("Second")
+    }
 }
 
