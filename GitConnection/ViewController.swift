@@ -17,5 +17,9 @@ class ViewController: UIViewController {
     func setUp(){}
 
     func stech(){}
+
+    func firstMethod(){
+        print("First")
+    }
 }
 
